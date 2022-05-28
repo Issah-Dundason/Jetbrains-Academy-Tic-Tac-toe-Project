@@ -6,7 +6,11 @@ The example below shows how the program works;
 
 An empty cell is represented by an underscore(_) when you run the code.
 
+It is a 2 player game
 
+Player 1 uses X
+
+Player 2 uses O
  ```
 ---------
 |       |
@@ -23,11 +27,17 @@ Enter the coordinates: 2 2
 ---------
 ```
 Enter the coordinates: 2 2
+
 This cell is occupied! Choose another one!
+
 Enter the coordinates: two two
+
 You should enter numbers!
+
 Enter the coordinates: 1 4
+
 Coordinates should be from 1 to 3!
+
 Enter the coordinates: 1 1
 ```
 ---------
@@ -77,4 +87,4 @@ Enter the coordinates: 3 2
 ---------
 ```
 X wins
-</p>
+
